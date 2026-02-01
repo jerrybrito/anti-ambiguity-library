@@ -1,0 +1,2 @@
+# Requires: circular-infinity
+# (Not available on PyPI)
